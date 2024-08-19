@@ -1,0 +1,9 @@
+img {
+    width: 300px;
+}
+
+.landing container {
+    border-radius: 5px;
+    border-inline-style: solid;
+    
+}
